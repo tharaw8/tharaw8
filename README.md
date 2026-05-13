@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 🤖 Interested in **AI / Machine Learning / Data Science**  
 💻 Love coding & problem solving  
 🌱 Currently learning: Deep Learning, Python, ML Algorithms  
+🚀 Aspiring **Open Source** Contributor  
 
 ---
 
