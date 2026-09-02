@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 ## 📫 Contact Me
 - 📧 Email: tharawaranuset@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/thara-waranuset-5808ab314
+- 💼 LinkedIn: https://linkedin.com/in/thara-waranuset
 
