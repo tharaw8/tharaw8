@@ -1,4 +1,4 @@
-![header](assets/header.svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=140&section=header&text=Hi%20there,%20I'm%20Thara&fontSize=36&fontColor=e2e8f0)
 
 ### About
 
