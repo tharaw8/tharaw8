@@ -2,7 +2,7 @@
 
 ### About
 
-Computer Engineering student (expected May 2027). Currently learning deep learning, Python, and ML algorithms, with a focus on computer vision and NLP. Aspiring open source contributor.
+Computer Engineering student (expected May 2027), interested in AI, machine learning, and data science. Currently learning deep learning and ML algorithms, with a focus on computer vision and NLP. Aspiring open source contributor.
 
 ### Skills
 
