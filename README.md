@@ -6,8 +6,12 @@ Computer Engineering student (expected May 2027), interested in AI, machine lear
 
 ### Skills
 
+**Languages**
+
 ![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,ts)
-<br>
+
+**Tools**
+
 ![Tools](https://skillicons.dev/icons?i=vscode,git,docker)
 
 ### Contact
