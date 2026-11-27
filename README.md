@@ -1,52 +1,16 @@
-<!--
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rect&color=1e293b&height=140&section=header&text=Hi%20there,%20I'm%20Thara&fontSize=36&fontColor=e2e8f0)
 
-**tharawaranuset/tharawaranuset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+Computer Engineering student (expected May 2027). Currently learning deep learning, Python, and ML algorithms, with a focus on computer vision and NLP. Aspiring open source contributor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Thara&fontSize=35)
+![Languages](https://skillicons.dev/icons?i=python,cpp,java,js,ts)
+<br>
+![Tools](https://skillicons.dev/icons?i=vscode,git,docker)
 
-## 👋 About Me
-🎓 Computer Engineering Student (Expected May 2027)  
-🤖 Interested in **AI / Machine Learning / Data Science**  
-💻 Love coding & problem solving  
-🌱 Currently learning: Deep Learning, Python, ML Algorithms  
-🚀 Aspiring **Open Source** Contributor  
+### Contact
 
----
-
-## 🛠 Skills
-**Languages**
-
-![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,ts)
-
-**Tools**
-
-![My Skills](https://skillicons.dev/icons?i=vscode,git,docker)
-
----
-
-## 🤖 AI / ML Interests
-- Machine Learning
-- Deep Learning
-- Neural Networks
-- Computer Vision
-- Natural Language Processing (NLP)
-
----
-
-## 📫 Contact Me
-- 📧 Email: tharawaranuset@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/thara-waranuset
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-thara--waranuset-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thara-waranuset)
+[![Email](https://img.shields.io/badge/Email-tharawaranuset%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tharawaranuset@gmail.com)
